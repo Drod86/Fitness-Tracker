@@ -1,0 +1,12 @@
+{
+  "name": "Fitness-Tracker",
+  "displayName": "Fitness-Tracker",
+  "expo": {
+    "name": "Fitness-Tracker",
+    "slug": "Fitness-Tracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
